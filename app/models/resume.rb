@@ -1,0 +1,2 @@
+class Resume < Service
+end

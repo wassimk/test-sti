@@ -1,0 +1,2 @@
+class Tailoring < Service
+end
